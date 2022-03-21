@@ -1,0 +1,30 @@
+Policy Data,
+Columns,Data type
+policy number,Unique policy identifier
+product code,product code
+trans date,date of policy transaction
+from date,first date of policy cover
+to date,last date of policy cover
+agency full name,agency
+class of business,class of business
+client type,client type
+Renewal frequency,policy renewal frequency
+branch,branch
+,
+,
+,
+Claims Data,
+Claim Number,Description
+Policy Number,Unique policy identifier
+Loss Date,Date of loss event
+Sum Insured,Sum Insured
+Paid to Date,Total cost of claim.
+Agent,Agency (categorical variable)
+risk type,Risk Type
+class of business,Class of business
+product,Product
+client type,Client Type
+Renewal frequency,Policy renewal frequency
+primary cause,Primary cause of loss event
+secondary cause,Secondary cause of loss event
+branch,branch
